@@ -37,7 +37,7 @@ p {
   border-radius: 1rem;
   border: 1px solid var(--black-color);
   background-color: var(--white-color);
-  box-shadow: 1rem 1rem 0 var(--black-color);
+  box-shadow: .5rem .5rem 0 var(--black-color);
 
   .illustration {
     width: 100%;
